@@ -35,7 +35,9 @@ while the *Right Brain* focuses on **safety reasoning, risk prediction, and rule
 ---
 
 ## 📁 Repository Structure | 仓库结构
-
+主文档：AV需要什么样的世界模型；AV需要哪些AI意识
+references：主文档参考文献里提到的本人其他文档
+images：readme.md文件所需要的插图
 
 ---
 
