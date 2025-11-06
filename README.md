@@ -21,6 +21,9 @@ while the *Right Brain* focuses on **safety reasoning, risk prediction, and rule
 
 
 下图展示了“左脑执行系统 + 右脑安全系统”的总体结构：  
+<p align="center">
+  <img src="Picture5.png" width="500">
+</p>
 
 ![System Architecture](./images/Picture5.png)
 
