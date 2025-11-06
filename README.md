@@ -21,3 +21,63 @@ while the *Right Brain* focuses on **safety reasoning, risk prediction, and rule
 ## 🏗️ Architecture | 系统架构
 
 
+> 🔹 The system integrates *World Modeling*, *SOTIF principles*, *Human–Machine Interaction*, and *Hazard Identification (HIRA)*  
+> 🔹 Supporting both symbolic reasoning (ontology) and data-driven adaptation (machine learning)
+
+---
+
+## 📚 Related Research | 相关研究
+
+- **Fei-Fei Li** — *Spatial Intelligence and World Models*  
+- **Marvin Minsky** — *The Society of Mind & Multi-layer Cognition*  
+- **ISO 26262 / SOTIF** — *Functional Safety and Safety of the Intended Functionality*  
+- **HIRA Framework** — *Hazard Identification and Risk Assessment*
+
+---
+
+## 📁 Repository Structure | 仓库结构
+
+
+---
+
+## 🧩 Core Components | 核心组件
+
+| 模块 | 英文名称 | 功能简介 |
+|------|-----------|----------|
+| 左脑 | Intuitive Perception Engine | 感知与轨迹执行 |
+| 右脑 | Reasoning Engine for Traffic Regulation | 交通规则与防御性驾驶推理 |
+| 安全性 | Hazard Identification and Risk Assessment (HIRA) | 危险识别与风险预测 |
+| 行为层 | Interaction Behavior Design | 行为意图与交互控制 |
+| 认知层 | AI Consciousness Model | 多层抽象思维与意识建模 |
+
+---
+
+## 🧮 Keywords | 关键词
+
+`autonomous-driving` · `world-model` · `AI-consciousness` · `dual-brain` · `safety-engineering` · `SOTIF` · `risk-reasoning` · `ontology` · `knowledge-graph`
+
+---
+
+## 🧭 Author | 作者
+
+**Shaobo Qiu**  
+Technical Chief, R&D Center, FAW · Vice Chair, Vehicle Safety Committee, CSAE · Chair, GRSP China (WP29 UN)  
+📍 NY / Changchun  
+🔗 [GitHub](https://github.com/shaoboqiu)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 💡 Acknowledgements | 致谢
+
+This work is part of the **EPTech** research column on *World Models and AI Consciousness*.  
+Special thanks to collaborators and open-source contributors working on ontology-based safety reasoning.
+
+---
+
+
