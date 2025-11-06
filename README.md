@@ -77,6 +77,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 This work is part of the **EPTech** research column on *World Models and AI Consciousness*.  
 Special thanks to collaborators and open-source contributors working on ontology-based safety reasoning.
+
 ![System EPTechLogo](./images/Picture4.png)
 
 ---
