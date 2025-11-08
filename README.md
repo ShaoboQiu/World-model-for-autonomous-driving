@@ -66,6 +66,7 @@ images：readme.md文件所需要的插图
 Former Technical Chief, R&D Center, FAW · Former Vice Chair, Vehicle Safety Committee, CSAE · Former Chair, GRSP China (WP29 UN)  
 📍 NY / Changchun  
 🔗 [GitHub](https://github.com/shaoboqiu)
+
 📱 WeChat: shao44979926
 
 
